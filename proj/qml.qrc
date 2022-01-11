@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Login.qml</file>
+        <file>Insight.qml</file>
+        <file>Register.qml</file>
+        <file>CustomButton.qml</file>
+        <file>fontawesome-webfont.ttf</file>
+        <file>EventWrite.qml</file>
+        <file>DatePicker.qml</file>
+        <file>placeholder.png</file>
+        <file>EventPlaceholder.qml</file>
+        <file>EventInfo.qml</file>
+        <file>put.png</file>
+        <file>udes.png</file>
+        <file>zurka.png</file>
+        <file>music.png</file>
+        <file>sport.png</file>
+        <file>leaking.png</file>
+        <file>placeholder.ico</file>
+    </qresource>
+</RCC>
